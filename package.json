@@ -1,0 +1,15 @@
+{
+  "name": "vue-typescript",
+  "version": "0.0.1",
+  "description": "Vue ES6 it's an MIT-licensed open source project. Its under development ..",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vue",
+    "ES6",
+    "Tyepscript"
+  ],
+  "author": "badi ifaoui",
+  "license": "MIT"
+}
