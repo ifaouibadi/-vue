@@ -3,7 +3,7 @@
 # @Vue
 Build Better Vue Apps With Typescript
 ```javascript
-    import { Component } from '@vue/core';
+    import { Component, bootstrap } from '@vue/core';
 
     @Component({
         el: 'vue-app',
@@ -18,5 +18,7 @@ Build Better Vue Apps With Typescript
     class AppComponent {
         // component logic
     }
+    
+    bootstrap(AppComponent);
     
 ```
